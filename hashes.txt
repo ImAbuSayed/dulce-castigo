@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Dulce castigo
+
+This log tracks the cryptographic history and versioning for the song **Dulce castigo** (dulce-castigo).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-19T17:14:18.010846 | `v1` | `be177e32dd5698da05fc4239a228467e841ff0e04f193fcc4a7c4b14b01ac6ad` | `237dfa1b2db01f03e5b4dc60a26da5fb63f6d037395ca52f7dff803c87b1faf2` | `2026-06-19_dulce-castigo-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

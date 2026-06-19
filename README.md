@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, tú eres mi dulce castigo, my favorite sin
+> Cada vez que me miras, the trouble begins
+> Con esa cara de santa, you pull me right in
+> Esta noche en Madrid, you know we're gon' win
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
